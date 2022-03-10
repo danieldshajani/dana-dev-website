@@ -39,3 +39,8 @@ iframe {
   top: 60%;
   transform: translate(-50%, -50%);
  }
+
+ #discord {
+ position:absolute; left: 26%;
+ position:absolute; bottom: 32.5%
+ }
